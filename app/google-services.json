@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87350518353",
+    "firebase_url": "https://gpss-41f2d.firebaseio.com",
+    "project_id": "gpss-41f2d",
+    "storage_bucket": "gpss-41f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87350518353:android:baec1e5c0c3902cc",
+        "android_client_info": {
+          "package_name": "com.example.tt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87350518353-5fi0v5olhdjufvs1t1qa9qr0qo7bi9c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tt",
+            "certificate_hash": "d5b0b71d2226ac58484eb68f0c24d38c67d5c82c"
+          }
+        },
+        {
+          "client_id": "87350518353-5u5lr1cf97uri0dkld13v650lglfn08j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3wUQMPnxWWLngNX6lYRjRTS85n_9ACE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87350518353-5u5lr1cf97uri0dkld13v650lglfn08j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
